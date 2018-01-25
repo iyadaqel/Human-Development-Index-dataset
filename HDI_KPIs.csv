@@ -1,0 +1,118 @@
+kpi_name,url
+Human Development Index Score,http://hdr.undp.org/en/indicators/137506
+Public Expenditure on Education,http://hdr.undp.org/en/indicators/149206
+Life Expectancy at Birth,http://hdr.undp.org/en/indicators/69206
+"Adult Mortality Rate, Female",http://hdr.undp.org/en/indicators/57806
+"Adult Mortality Rate, Male",http://hdr.undp.org/en/indicators/57906
+Deaths Due to Malaria,http://hdr.undp.org/en/indicators/102506
+Deaths Due to Tuberculosis,http://hdr.undp.org/en/indicators/150206
+"HIV Prevalence, Adult (percentage for ages 15-49)",http://hdr.undp.org/en/indicators/58006
+Infant Mortality Rate - UN,http://hdr.undp.org/en/indicators/57206
+"Infants Lacking Immunization, DTP",http://hdr.undp.org/en/indicators/64406
+"Infants Lacking Immunization, Measles",http://hdr.undp.org/en/indicators/64306
+Public Health Expenditure,http://hdr.undp.org/en/indicators/53906
+Stunting (Moderate or Severe),http://hdr.undp.org/en/indicators/98306
+Under-Five Mortality Rate,http://hdr.undp.org/en/indicators/57506
+Expected Years of Schooling,http://hdr.undp.org/en/indicators/69706
+Adult Literacy Rate - UN,http://hdr.undp.org/en/indicators/101406
+Government Expenditure on Education,http://hdr.undp.org/en/indicators/149206
+Gross Enrollment Ratio: Pre-Primary Education,http://hdr.undp.org/en/indicators/133006
+"Gross Enrollment Ratio, Primary Education",http://hdr.undp.org/en/indicators/63206
+"Gross Enrollment Ratio, Secondary Education",http://hdr.undp.org/en/indicators/63306
+"Gross Enrollment Ratio, Tertiary Education",http://hdr.undp.org/en/indicators/63406
+Mean Years of Schooling - UN,http://hdr.undp.org/en/indicators/103006
+Population with at Least Some Secondary Education,http://hdr.undp.org/en/indicators/23806
+Primary School Dropout Rate,http://hdr.undp.org/en/indicators/46106
+Primary School Teachers Trained to Teach,http://hdr.undp.org/en/indicators/45806
+"Pupil-Teacher Ratio, Primary School - UN",http://hdr.undp.org/en/indicators/46206
+Gross National Income (Gni) Per Capita,http://hdr.undp.org/en/indicators/141706
+Adjusted Net Savings,http://hdr.undp.org/en/indicators/164406
+Domestic Credit Provided by Financial Sector - UN,http://hdr.undp.org/en/indicators/127606
+Domestic Food Price Level Index,http://hdr.undp.org/en/indicators/127806
+Domestic Food Price Level Volatility Index,http://hdr.undp.org/en/indicators/136806
+Gross Domestic Product (GDP) Per Capita,http://hdr.undp.org/en/indicators/136706
+"Gross Domestic Product (GDP), Total",http://hdr.undp.org/en/indicators/143306
+Gross Fixed Capital Formation,http://hdr.undp.org/en/indicators/65606
+Inequality-Adjusted HDI,http://hdr.undp.org/en/indicators/138806
+Coefficient of Human Inequality,http://hdr.undp.org/en/indicators/135006
+"Income Inequality, Gini Coefficient",http://hdr.undp.org/en/indicators/67106
+"Income Inequality, Palma Ratio",http://hdr.undp.org/en/indicators/135206
+"Income Inequality, Quintile Ratio",http://hdr.undp.org/en/indicators/135106
+Inequality in Education,http://hdr.undp.org/en/indicators/101606
+Inequality in Income,http://hdr.undp.org/en/indicators/101706
+Inequality in Life Expectancy,http://hdr.undp.org/en/indicators/101806
+Inequality-Adjusted Education Index,http://hdr.undp.org/en/indicators/71406
+Inequality-Adjusted Income Index,http://hdr.undp.org/en/indicators/71606
+Inequality-Adjusted Life Expectancy Index,http://hdr.undp.org/en/indicators/71506
+Overall Loss in HDI Due to Inequality,http://hdr.undp.org/en/indicators/73506
+Gender Development Index,http://hdr.undp.org/en/indicators/137906
+Adolescent Birth Rate,http://hdr.undp.org/en/indicators/36806
+"Estimated Gross National Income Per Capita, Female",http://hdr.undp.org/en/indicators/123506
+"Estimated Gross National Income Per Capita, Male",http://hdr.undp.org/en/indicators/123606
+"Expected Years of Schooling, Female",http://hdr.undp.org/en/indicators/123306
+"Expected Years of Schooling, Male",http://hdr.undp.org/en/indicators/123406
+Gender Inequality Index,http://hdr.undp.org/en/indicators/68606
+"Labour Force Participation Rate, Female",http://hdr.undp.org/en/indicators/48706
+"Labour Force Participation Rate, Male",http://hdr.undp.org/en/indicators/48806
+"Legislators, Senior Officials and Managers, Female",http://hdr.undp.org/en/indicators/166406
+"Life Expectancy at Birth, Female",http://hdr.undp.org/en/indicators/120606
+"Life Expectancy at Birth, Male",http://hdr.undp.org/en/indicators/121106
+Maternal Mortality Ratio - UN,http://hdr.undp.org/en/indicators/89006
+"Mean Years of Schooling, Female",http://hdr.undp.org/en/indicators/24106
+"Mean Years of Schooling, Male",http://hdr.undp.org/en/indicators/24206
+"Population with at Least Some Secondary Education, Female",http://hdr.undp.org/en/indicators/23906
+"Population with at Least Some Secondary Education, Male",http://hdr.undp.org/en/indicators/24006
+Share of Seats in Parliament,http://hdr.undp.org/en/indicators/31706
+"Unemployment Rate (Total), Female to Male Ratio",http://hdr.undp.org/en/indicators/169706
+"Youth Unemployment Rate, Female to Male Ratio",http://hdr.undp.org/en/indicators/169806
+"Multidimensional Poverty Index (MPI), HDRO Specifications",http://hdr.undp.org/en/indicators/38406
+"Population In Multidimensional Poverty, Headcount - UN",http://hdr.undp.org/en/indicators/102006
+"Population in Multidimensional Poverty, Intensity of Deprivation",http://hdr.undp.org/en/indicators/38506
+Population in Severe Multidimensional Poverty,http://hdr.undp.org/en/indicators/101006
+"Population Living Below Income Poverty Line, PPP $1.90 a Day",http://hdr.undp.org/en/indicators/167106
+Population Near Multidimensional Poverty,http://hdr.undp.org/en/indicators/142506
+Working Poor at PPP$3.10 a Day,http://hdr.undp.org/en/indicators/153706
+Employment To Population Ratio - UN,http://hdr.undp.org/en/indicators/148306
+Child Labour,http://hdr.undp.org/en/indicators/112206
+Employment In Agriculture - UN,http://hdr.undp.org/en/indicators/150606
+Employment In Services - UN,http://hdr.undp.org/en/indicators/150706
+Labour Force Participation Rate - UN,http://hdr.undp.org/en/indicators/148206
+Mandatory Paid Maternity Leave,http://hdr.undp.org/en/indicators/128106
+Old Age Pension Recipients,http://hdr.undp.org/en/indicators/123806
+Total Unemployment Rate,http://hdr.undp.org/en/indicators/140606
+Vulnerable Employment,http://hdr.undp.org/en/indicators/43006
+Youth Not in School or Employment,http://hdr.undp.org/en/indicators/147906
+Youth Unemployment Rate - UN,http://hdr.undp.org/en/indicators/110906
+Homicide Rate,http://hdr.undp.org/en/indicators/61006
+Birth Registration,http://hdr.undp.org/en/indicators/127906
+Homeless People Due to Natural Disaster,http://hdr.undp.org/en/indicators/149406
+Refugees by Country of Origin,http://hdr.undp.org/en/indicators/21806
+"Suicide Rate, Female",http://hdr.undp.org/en/indicators/112606
+"Suicide Rate, Male",http://hdr.undp.org/en/indicators/112506
+"Violence Against Women Ever Experienced, Intimate Partner",http://hdr.undp.org/en/indicators/167406
+"Violence Against Women Ever Experienced, Nonintimate Partner",http://hdr.undp.org/en/indicators/167506
+Exports and Imports,http://hdr.undp.org/en/indicators/133206
+Concentration Index,http://hdr.undp.org/en/indicators/170006
+External Debt Stock,http://hdr.undp.org/en/indicators/127706
+"Foreign Direct Investment, Net Inflows",http://hdr.undp.org/en/indicators/53506
+Net Official Development Assistance Received,http://hdr.undp.org/en/indicators/99106
+Private Capital Flows,http://hdr.undp.org/en/indicators/111306
+"Remittances, Inflows",http://hdr.undp.org/en/indicators/52606
+Internet Users - UN,http://hdr.undp.org/en/indicators/43606
+International Inbound Tourists - UN,http://hdr.undp.org/en/indicators/111106
+International Student Mobility,http://hdr.undp.org/en/indicators/147206
+Mobile Phone Subscriptions - UN,http://hdr.undp.org/en/indicators/46006
+Net Migration Rate - UN,http://hdr.undp.org/en/indicators/110806
+Carbon Dioxide Emissions Per Capita,http://hdr.undp.org/en/indicators/27706
+Forest Area - UN,http://hdr.undp.org/en/indicators/100806
+Fresh Water Withdrawals,http://hdr.undp.org/en/indicators/97106
+Natural Resource Depletion - UN,http://hdr.undp.org/en/indicators/97306
+Renewable Energy Consumption,http://hdr.undp.org/en/indicators/163906
+"Dependency Ratio, Young Age (0-14)",http://hdr.undp.org/en/indicators/121206
+Median Age,http://hdr.undp.org/en/indicators/47906
+"Dependency Ratio, Old Age (65 And Older)",http://hdr.undp.org/en/indicators/122006
+"Population, Ages 15-64",http://hdr.undp.org/en/indicators/63106
+"Population, Ages 65 and Older",http://hdr.undp.org/en/indicators/132706
+"Population, Under Age 5",http://hdr.undp.org/en/indicators/132806
+"Population, Urban",http://hdr.undp.org/en/indicators/45106
+Sex Ratio at Birth,http://hdr.undp.org/en/indicators/49006
